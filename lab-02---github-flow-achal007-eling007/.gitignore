@@ -1,0 +1,11 @@
+a.out
+CMakeCache.txt
+CMakeFiles/
+Makefile
+c-echo
+cmake_install.cmake
+lib/
+test
+googletest
+c-echo-count
+
